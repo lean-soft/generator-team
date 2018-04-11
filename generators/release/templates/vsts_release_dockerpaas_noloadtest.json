@@ -30,7 +30,7 @@
                "value": "{{WebAppName}}Dev"
             },
             "webSiteName": {
-               "value": "{{WebAppName}}Dev{{uuid}}"
+               "value": "{{WebAppName}}Dev"
             },
             "hostingPlanName": {
                "value": "{{WebAppName}}Dev"
@@ -132,13 +132,13 @@
                "value": "{{WebAppName}}QA"
             },
             "webSiteName": {
-               "value": "{{WebAppName}}QA{{uuid}}"
+               "value": "{{WebAppName}}QA"
             },
             "hostingPlanName": {
                "value": "{{WebAppName}}QA"
             },
             "webSiteURL": {
-               "value": "http://{{WebAppName}}QA{{uuid}}.azurewebsites.net/"
+               "value": "http://{{WebAppName}}QA.azurewebsites.net/"
             }
          },
          "preDeployApprovals": {
@@ -246,7 +246,7 @@
                "value": "{{WebAppName}}Prod"
             },
             "webSiteName": {
-               "value": "{{WebAppName}}Prod{{uuid}}"
+               "value": "{{WebAppName}}Prod"
             },
             "hostingPlanName": {
                "value": "{{WebAppName}}Prod"

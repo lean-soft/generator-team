@@ -26,7 +26,7 @@
                "value": "{{WebAppName}}Dev"
             },
             "webSiteName": {
-               "value": "{{WebAppName}}Dev{{uuid}}"
+               "value": "{{WebAppName}}Dev"
             },
             "hostingPlanName": {
                "value": "{{WebAppName}}Dev"
