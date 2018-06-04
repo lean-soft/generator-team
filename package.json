@@ -1,6 +1,6 @@
 {
    "name": "generator-team",
-   "version": "0.4.5",
+   "version": "0.4.51",
    "description": "Generates an app with CI/CD in Team Foundation Server or Team Services",
    "main": "./generators/app/index.js",
    "scripts": {
@@ -38,7 +38,7 @@
    "author": "@DonovanBrown",
    "repository": {
       "type": "git",
-      "url": "https://github.com/DarqueWarrior/generator-team"
+      "url": "https://github.com/lean-soft/generator-team"
    },
    "license": "ISC",
    "dependencies": {
